@@ -1,0 +1,7 @@
+siteTitle="Jobs at White Rabbit Japan"
+baseColor = "#4bc251"
+linkPrefix = "/gatsby-starter-documentation"
+jobPages = [
+  "/jobs/",
+  "/jobs/customer-assistant/"
+  ]
